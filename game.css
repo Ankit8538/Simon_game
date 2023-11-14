@@ -1,0 +1,48 @@
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.btn-container
+{
+    display: flex;
+    justify-content: center;
+}
+.btn
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 1.5rem;
+}
+.num
+{
+    text-align: center;
+    padding-top: 50px;
+    color: pink;
+}
+.red
+{
+    background-color: red;
+}
+.yellow
+{
+    background-color: yellow;
+}
+.green
+{
+    background-color:green ;
+}
+.purple
+{
+    background-color: purple;
+}
+.flash
+{
+    background-color: white;
+}
+.userflash
+{
+    background-color: aqua;
+}
